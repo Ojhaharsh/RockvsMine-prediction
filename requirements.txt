@@ -8,3 +8,4 @@ streamlit
 plotly
 scikit-learn
 tensorflow
+streamlit-option-menu
