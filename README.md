@@ -4,7 +4,7 @@ Rock vs Mine Prediction App
 
 A machine learning application for predicting whether an object is a rock or a mine using SONAR data.
 
-![image](https://github.com/user-attachments/assets/ba74ab98-1014-4453-8bb2-9bf61577513f)
+![image](https://github.com/user-attachments/assets/6633d4b0-8cbf-4158-981c-fb1318d183cd)
 
 
 This project uses a **Logistic Regression Model** to classify objects based on the SONAR dataset. The Rock\_vs\_Mine\_Predictor.ipynb file contains the source code for data preprocessing, model training, and testing. After training, the model is saved for convenient reuse. The web interface for this project is developed using **Streamlit**, providing a simple and interactive way to make predictions.
